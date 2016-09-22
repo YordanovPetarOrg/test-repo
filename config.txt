@@ -3,3 +3,10 @@ name = ivan
 size = 105
 
 email = ivan@dir.bg
+
+name = peter
+
+size = 100
+
+email = peter@ir.bg
+
