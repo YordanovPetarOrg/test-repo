@@ -1,0 +1,5 @@
+name = peter
+
+size = 100
+
+email = peter@ir.bg
